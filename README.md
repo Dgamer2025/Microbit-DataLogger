@@ -8,3 +8,8 @@ Un programa de BBC Micro:bit que registra datos sobre temperatura, nivel de soni
 4. Si quieres pausar el registro de datos, pero sin borrarlos, pulsa "B". Esto hará que el símbolo que aparezca en pantalla sea de pausa (⏸). A partir de ese momento, los datos se dejarán de registrar. Si quieres reanudar el registro de datos, vuelve a pulsar "A" y la placa seguirá.
 5. Si deseas borrar los datos, pulsa "A+B". Aparecerá una cruz (X) que significa que se han borrado todos los datos registrados anteriormente.
 6. Cuando quieras ver los datos, desconecta la Micro:bit de su batería y conéctala por USB a tu PC. Aparecerá un archivo llamado "MY_DATA.HTM". Simplemente ábrelo y podrás ver el historial dedaos registrados. También, si pulsas un botón que dice "Visual Preview", podrás ver esos datos en forma de gráfica.
+
+### Qué incluye este repositorio:
+Este repositorio incluye los archivos necesarios para ejecutar y/o editar el código de DataLogger. Está disponible en Python, JavaScript y también en la web.
+- Enlace web:
+https://makecode.microbit.org/S94616-40645-40271-58546
