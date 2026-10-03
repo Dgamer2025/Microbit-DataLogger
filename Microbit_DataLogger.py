@@ -1,5 +1,4 @@
 #El código en versión Python (para MakeCode)
-#
 
 def on_button_pressed_a():
     global Registrando
